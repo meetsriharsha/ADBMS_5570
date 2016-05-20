@@ -1,0 +1,17 @@
+planetlab1.unr.edu,planetlab1.emich.edu,file32B.txt,2015/09/30 21:01:56,2015/09/30 21:02:01,4567.000000
+planetlab1.unr.edu,planetlab1.emich.edu,file1KB.txt,2015/09/30 21:02:01,2015/09/30 21:02:07,6544.000000
+planetlab1.unr.edu,planetlab1.emich.edu,file256KB.txt,2015/09/30 21:02:07,2015/09/30 21:02:43,36029.000000
+planetlab1.unr.edu,planetlab1.emich.edu,file512KB.txt,2015/09/30 21:02:43,2015/09/30 21:03:49,65416.000000
+planetlab1.unr.edu,planetlab1.emich.edu,file1MB.txt,2015/09/30 21:03:49,2015/09/30 21:05:57,128071.000000
+pl2.cs.unm.edu,planetlab1.emich.edu,file32B.txt,2015/09/30 21:05:57,2015/09/30 21:06:03,6659.000000
+pl2.cs.unm.edu,planetlab1.emich.edu,file1KB.txt,2015/09/30 21:06:03,2015/09/30 21:06:08,4609.000000
+pl2.cs.unm.edu,planetlab1.emich.edu,file256KB.txt,2015/09/30 21:06:08,2015/09/30 21:06:39,30954.000000
+pl2.cs.unm.edu,planetlab1.emich.edu,file512KB.txt,2015/09/30 21:06:39,2015/09/30 21:07:36,57133.000000
+pl2.cs.unm.edu,planetlab1.emich.edu,file1MB.txt,2015/09/30 21:07:36,2015/09/30 21:09:24,107573.000000
+planetlab2.cnis.nyit.edu,planetlab1.emich.edu,file32B.txt,2015/09/30 21:09:24,2015/09/30 21:09:30,6746.000000
+planetlab2.cnis.nyit.edu,planetlab1.emich.edu,file1KB.txt,2015/09/30 21:09:30,2015/09/30 21:09:35,4700.000000
+planetlab2.cnis.nyit.edu,planetlab1.emich.edu,file256KB.txt,2015/09/30 21:09:35,2015/09/30 21:09:59,24185.000000
+planetlab2.cnis.nyit.edu,planetlab1.emich.edu,file512KB.txt,2015/09/30 21:09:59,2015/09/30 21:10:41,41615.000000
+planetlab2.cnis.nyit.edu,planetlab1.emich.edu,file1MB.txt,2015/09/30 21:10:41,2015/09/30 21:12:01,80548.000000
+planetlab2.rutgers.edu,planetlab1.emich.edu,file32B.txt,2015/09/30 21:12:01,2015/09/30 21:12:07,5409.000000
+planetlab2.rutgers.edu,planetlab1.emich.edu,file1KB.txt,2015/09/30 21:12:07,2015/09/30 21:12:15,8525.000000

@@ -1,0 +1,8 @@
+source,destination,distance,avg(dd.avgdelay)
+planetlab1.cs.uml.edu,planetlab2.cs.pitt.edu,478.371,1554
+planetlab1.cs.uml.edu,planetlab4.cs.uoregon.edu,2557.8,1593
+planetlab1.cs.uml.edu,planetlab2.cs.du.edu,1749.99,1623
+planetlab1.cnis.nyit.edu,planetlab1.cs.du.edu,1646.66,1809
+planetlab1.cs.uml.edu,planetlab1.cs.unc.edu,621.287,1873
+planetlab1.cs.uml.edu,pl1.cs.montana.edu,1959.66,1907
+planetlab1.cs.uml.edu,planetlab1.cs.ucla.edu,2585.79,1959

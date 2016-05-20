@@ -1,0 +1,90 @@
+id,sitename,hostname,latitude,longitude
+63,University of nevada-Reno,planetlab1.unr.edu,39.5398,-119.814
+64,University of New Mexico,pl2.cs.unm.edu,35.08,-106.65
+65,New York Institute of Tech,planetlab2.cnis.nyit.edu,40.814,-73.6081
+66,Rutgers University,planetlab2.rutgers.edu,40.4896,-74.4082
+67,University of Denver,planetlab2.cs.du.edu,39.6798,-104.963
+68,University of California at San Diego,planetlab2.ucsd.edu,32.877,-117.237
+69,University of Oregon,planetlab3.cs.uoregon.edu,44.04,-123.06
+70,Boston University,planetlab-01.bu.edu,42.35,-71.1
+71,Johns Hopkins CNDS,planetlab4.cnds.jhu.edu,39.33,-76.6
+72,North eastern University CCIS,planetlabtwo.ccs.neu.edu,42.37,-71.03
+73,Purdue,planetlab1.cs.purdue.edu,40.4274,-86.9167
+74,Tennesse University,planetlab2.tsuniv.edu,36.1659,-86.8313
+75,Tennesse University,planetlab1.tsuniv.edu,36.1659,-86.8313
+76,University of California at San Diego,planetlab3.ucsd.edu,32.877,-117.237
+77,SRI International,pl-node-1.csl.sri.com,37.4557,-122.178
+78,Emory University,node2.planetlab.mathcs.emory.edu,33.7895,-84.3255
+79,University of South Florida,planetlab5.csee.usf.edu,28.0587,-82.4152
+80,Eastern Michigan University,planetlab1.emich.edu,42.2477,-83.6226
+81,Worcester Polytechnic Institute,75-130-96-12.static.oxfr.ma.charter.com,42.2736,-71.8098
+82,Colgate University,ebb.colgate.edu,42.8189,-75.5357
+83,University of Missouri Kansas City,kc-sce-plab2.umkc.edu,39.0386,-94.5794
+84,Emory University,node1.planetlab.mathcs.emory.edu,33.7895,-84.3255
+85,Montana State University,pl1.cs.montana.edu,45.6666,-111.049
+86,University of New Mexico,pl3.cs.unm.edu,35.08,-106.65
+87,Kansas State University,plab3.eece.ksu.edu,39.19,-96.59
+88,Georgia Institute of Technology,planet3.cc.gt.atl.ga.us,33.7772,-84.3976
+89,Princeton,planetlab-01.cs.princeton.edu,40.3502,-74.6524
+90,Boston University,planetlab-02.bu.edu,42.35,-71.1
+91,Virginia Tech,planetlab-02.vt.nodes.planet-lab.org,37.2055,-80.4124
+92,University of Washington,planetlab04.cs.washington.edu,47.6531,-122.313
+93,Clemson University,planetlab1.clemson.edu,34.6754,-82.8394
+94,Johns Hopkins CNDS,planetlab1.cnds.jhu.edu,39.33,-76.6
+95,New York Institute of Technology,planetlab1.cnis.nyit.edu,40.814,-73.6081
+96,University of Denver,planetlab1.cs.du.edu,39.6798,-104.963
+97,University of South Florida (CSE),planetlab1.csee.usf.edu,28.0587,-82.4152
+98,Ohio State University,planetlab-1.cse.ohio-state.edu,39.98,-83.03
+99,Oklahoma State University,planetlab1.cs.okstate.edu,36.1222,-97.0714
+100,University of California at Los Angeles,planetlab1.cs.ucla.edu,34.0711,-118.442
+101,Cleveland State University,planetlab1.csuohio.edu,41.5033,-81.6756
+102,Eastern Michigan University,planetlab1.emich.edu,42.2477,-83.6226
+103,University of Kentucky,planetlab1.netlab.uky.edu,38.0401,-84.5054
+104,University of California at San Diego,planetlab1.ucsd.edu,32.877,-117.237
+105,University of Florida - ACIS Lab,planetlab2.acis.ufl.edu,29.68,-82.27
+106,University of Arizona,planetlab2.arizona-gigapop.net,32.2333,-110.948
+107,The Citadel,planetlab2.citadel.edu,32.7984,-79.9614
+108,Ohio State University,planetlab-2.cse.ohio-state.edu,39.98,-83.03
+109,University of Pittsburgh,planetlab2.cs.pitt.edu,40.26,-80
+110,Purdue,planetlab2.cs.purdue.edu,40.4274,-86.9167
+111,University of California at Riverside,planet-lab2.cs.ucr.edu,33.95,-117.39
+112,University of Illinois at Urbana-Champaign,planetlab2.cs.uiuc.edu,40.1103,-88.2272
+113,University of Massachusetts Lowel,planetlab2.cs.uml.edu,42.6544,-71.3266
+114,University of North Carolina at Chapel Hill,planetlab2.cs.unc.edu,35.92,-79.04
+115,University of Oregon,planetlab2.cs.uoregon.edu,44.04,-123.06
+116,Temple University,planetlab2.temple.edu,39.9809,-75.157
+117,University of Nebraska - Lincoln,planetlab2.unl.edu,40.8,-96.6667
+118,University of Nevada at Reno,planetlab2.unr.edu,39.5398,-119.814
+119,University of Texas at Arlington,planetlab2.uta.edu,32.73,-97.115
+120,University of Texas Dallas - Computer Science,planetlab2.utdallas.edu,32.9861,-96.75
+121,University of Michigan,planetlab3.eecs.umich.edu,42.2944,-83.7126
+122,Rutgers University,planetlab3.rutgers.edu,40.4896,-74.4082
+123,University of Wisconsin,planetlab3.wail.wisc.edu,43.0757,-89.3867
+124,Texas AM University,planetlab4.tamu.edu,30.61,-96.34
+125,Case Western Reserve University,planetlab-5.eecs.cwru.edu,41.5022,-81.6079
+126,Northeastern University CCIS,planetlabone.ccs.neu.edu,42.37,-71.03
+127,SRI International,pl-node-0.csl.sri.com,37.4557,-122.178
+128,Brown University,pluto.cs.brown.edu,41.82,-71.42
+129,Rice University,ricepl-5.cs.rice.edu,29.7225,-95.3924
+130,University of Maryland,salt.planetlab.cs.umd.edu,38.9886,-76.9445
+131,Worcester Polytechnic Institute,75-130-96-13.static.oxfr.ma.charter.com,42.2736,-71.8098
+132,University of Tennessee at Knoxville,pl1.eecs.utk.edu,35.9483,-83.9367
+133,Virginia Tech,planetlab-01.vt.nodes.planet-lab.org,37.2055,-80.4124
+134,Virginia Tech,planetlab-04.vt.nodes.planet-lab.org,37.2055,-80.4124
+135,Case Western Reserve University,planetlab-4.eecs.cwru.edu,41.5022,-81.6079
+136,University of Washington,planetlab01.cs.washington.edu,47.6531,-122.313
+137,University of Washington,planetlab02.cs.washington.edu,47.6531,-122.313
+138,University of Arizona,planetlab1.arizona-gigapop.net,32.2333,-110.948
+139,University of North Carolina at Chapel Hill,planetlab1.cs.unc.edu,35.92,-79.04
+140,University of Southern California at ISI,planetlab1.postel.org,33.9815,-118.46
+141,Georgia Institute of Technology,planet3.cc.gt.atl.ga.us,33.7772,-84.3976
+142,University of Oregon,planetlab4.cs.uoregon.edu,44.04,-123.06
+143,Rutgers University,planetlab1.rutgers.edu,40.4896,-74.4082
+144,University of California at Los Angeles,planetlab2.cs.ucla.edu,34.0711,-118.442
+145,Johns Hopkins CNDS,planetlab3.cnds.jhu.edu,39.33,-76.6
+146,University of Washington,planetlab03.cs.washington.edu,47.6531,-122.313
+147,University of Massachusetts Lowel,planetlab1.cs.uml.edu,42.6544,-71.3266
+148,University of Florida - ACIS Lab,planetlab1.acis.ufl.edu,29.68,-82.27
+149,University of Michigan,planetlab5.eecs.umich.edu,42.2944,-83.7126
+150,Temple University,planetlab1.temple.edu,39.9809,-75.157
+151,University of South Florida,planetlab4.csee.usf.edu,28.0587,-82.4152

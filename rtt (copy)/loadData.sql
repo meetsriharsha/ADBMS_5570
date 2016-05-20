@@ -1,0 +1,1 @@
+mysqlimport --local -u root -h 127.0.0.1 -p IGOD --fields-terminated-by=',' --lines-terminated-by="\n" --columns="source,destination,filename,starttime,endtime,delay" "/media/harsha/Files/UMKC/Docs/Subjects/5570 Arch of DBMS/tmp/nodeFiles/downloaddetails_bkp.csv"

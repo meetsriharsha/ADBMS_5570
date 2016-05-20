@@ -1,0 +1,7 @@
+mysql commands
+mysql -u root -p -h 127.0.0.1
+show databases;
+create database IGOD;
+use IGOD;
+create table nodes(id int(5) auto_increment primary key not null, sitename varchar(100), hostname varchar(100), latitude varchar(10), longitude varchar(10));
+

@@ -1,0 +1,8 @@
+SELECT 
+   avg(avgdelay)
+FROM
+   downloaddetails_bkp
+WHERE
+   destination = 'planetlab3.cs.uoregon.edu'
+       AND filename = 'file32B.txt'
+       AND DATE_FORMAT(starttime1, '%Y%m%d') > DATE_FORMAT('2015-10-28', '%Y%m%d') and destination!=source and avgdelay<>0 group by destination,source,filename order by avg(avgdelay+0) INTO OUTFILE '/tmp/planetlab3_cs_uoregon_edu32B.csv' FIELDS ENCLOSED BY '"' TERMINATED BY ';' ESCAPED BY '"' LINES TERMINATED BY '\r\n';

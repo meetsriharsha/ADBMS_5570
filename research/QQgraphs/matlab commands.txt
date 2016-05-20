@@ -1,0 +1,31 @@
+>>  h=qqplot(ebb_colgate_edu_1mb_qq);
+set(h(1),'marker','^','markersize',8,'markeredgecolor','r');
+set(h(2),'linewidth',2,'color','r');
+set(h(3),'linewidth',2,'color','r');
+hold on;
+>> h=qqplot(planetlab2_unr_edu1mb_qq);
+set(h(1),'marker','*','markersize',8,'markeredgecolor','g');
+set(h(2),'linewidth',2,'color','g');
+set(h(3),'linewidth',2,'color','g');
+hold on;
+>> h=qqplot(planetlab3_cs_uoregon_edu1mb_qq);
+set(h(1),'marker','o','markersize',8,'markeredgecolor','b');
+set(h(2),'linewidth',2,'color','b');
+set(h(3),'linewidth',2,'color','b');
+hold on;
+>> h=qqplot(planetlab_eecs_umich1mb_qq);
+set(h(1),'marker','+','markersize',8,'markeredgecolor','c');
+set(h(2),'linewidth',2,'color','c');
+set(h(3),'linewidth',2,'color','c');
+
+
+ebb.colgate.edu
+planetlab2.unr.edu
+planetlab3.cs.uoregon.edu
+planetlab2.eecs.umich.edu
+
+QQ Plot of PlantLab Observed Standardized Values versus Standard Normal Values
+
+Standard Normal Expected Quantiles
+
+Standard Normal Observed Quantiles

@@ -1,0 +1,1 @@
+mysqlimport --local -u root -h 127.0.0.1 -p IGOD --fields-terminated-by=',' --lines-terminated-by="\n" --columns="source,destination,distance" "/media/harsha/Files/UMKC/Docs/Subjects/5570 Arch of DBMS/rtt/distofnodes.csv"

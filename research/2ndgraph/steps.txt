@@ -1,0 +1,5 @@
+Graph2 commands
+
+a=fitdist(planetlab2_emich_1kb_2,'normal');
+>> b=pdf(a,planetlab2_emich_1kb_2);
+>> plot(planetlab2_emich_1kb_2,b);
